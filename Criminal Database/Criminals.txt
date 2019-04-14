@@ -1,0 +1,8 @@
+1 Shakil_Ahmed 28 3130307949477 Rahim_Yar_Khan Lashkar-e-Tayyaba 
+2 Muhammad_Abbas_Nasir 27 3187364942347 Khanewal Lashkar-e-Tayyaba
+3 Javed_Iqbal 25 3180734941868 Kasur Lashkar-e-Tayyaba
+4 Umar 28 3520265463739 Lahore Tehreek-e-Taliban_Pakistan 
+5 Bilal 23 3281726493868 Lahore Tehreek-e-Taliban_Pakistan
+6 Muhammad_Suleman_Hasan 24 3520228198653 Lahore Tehreek-e-Taliban_Pakistan
+7 Murtaza_Inayat 30 3583546598673 Karachi Sipah-e-Sahaba_Pakistan
+8 Wazir_Muhammad 30 3200864657978 Karachi Sipah-e-Sahaba_Pakistan
